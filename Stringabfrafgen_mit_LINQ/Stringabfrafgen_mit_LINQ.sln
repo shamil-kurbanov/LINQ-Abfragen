@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringabfrafgen_mit_LINQ", "Stringabfrafgen_mit_LINQ\Stringabfrafgen_mit_LINQ.csproj", "{0A430916-4403-4999-B082-04BD6283A1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A430916-4403-4999-B082-04BD6283A1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A430916-4403-4999-B082-04BD6283A1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A430916-4403-4999-B082-04BD6283A1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A430916-4403-4999-B082-04BD6283A1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7871C10-B97E-4A39-A749-70121C4AF9F2}
+	EndGlobalSection
+EndGlobal
